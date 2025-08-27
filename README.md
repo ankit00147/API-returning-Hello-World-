@@ -1,1 +1,3 @@
-# API-returning-Hello-World-
+Run & Test:
+
+node api.js
